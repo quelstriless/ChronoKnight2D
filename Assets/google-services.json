@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318495030004",
+    "project_id": "chrono-knight1",
+    "storage_bucket": "chrono-knight1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318495030004:android:feda16623f43cc5f2d7ca1",
+        "android_client_info": {
+          "package_name": "com.QuelTalas.ChronoKnights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318495030004-7djkth5sa7u3ljkmpbfm2qerc4o1vep8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodgD8tjMxQYhJngxwCl_z1x-ka9v9tvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318495030004-7djkth5sa7u3ljkmpbfm2qerc4o1vep8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

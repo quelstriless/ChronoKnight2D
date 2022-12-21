@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 4e0cbcb561567384680534a66bf1ce91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4363845707522663868
+    second: LaserTrap_0
+  - first:
+      213: 3201050469188924771
+    second: LaserTrap_1
+  - first:
+      213: 3897054895489308013
+    second: LaserTrap_2
+  - first:
+      213: -6857078030681270041
+    second: LaserTrap_3
+  - first:
+      213: -715695510798872437
+    second: LaserTrap_4
+  - first:
+      213: 6778703894351686744
+    second: LaserTrap_5
+  - first:
+      213: 4281145948180819751
+    second: LaserTrap_6
+  - first:
+      213: -4821231603019711984
+    second: LaserTrap_7
+  - first:
+      213: 9036284858829777937
+    second: LaserTrap_8
+  - first:
+      213: 172121104241649680
+    second: LaserTrap_9
+  - first:
+      213: -1861874594117980181
+    second: LaserTrap_10
+  - first:
+      213: -858001856137668231
+    second: LaserTrap_11
+  - first:
+      213: 711834201686875308
+    second: LaserTrap_12
+  - first:
+      213: -4678314525751281693
+    second: LaserTrap_13
+  - first:
+      213: -3226884680972833633
+    second: LaserTrap_14
+  - first:
+      213: -3445594493146336623
+    second: LaserTrap_15
+  - first:
+      213: 4166333431719859862
+    second: LaserTrap_16
+  - first:
+      213: 6334385272009366182
+    second: LaserTrap_17
+  - first:
+      213: -3570073224312183713
+    second: LaserTrap_18
+  - first:
+      213: -2782821931739616916
+    second: LaserTrap_19
+  - first:
+      213: 6242959744743325209
+    second: LaserTrap_20
+  - first:
+      213: 8517260524045914109
+    second: LaserTrap_21
+  - first:
+      213: -7680575110029640877
+    second: LaserTrap_22
+  - first:
+      213: -2587742817461964085
+    second: LaserTrap_23
+  - first:
+      213: -678280579824169036
+    second: LaserTrap_24
+  - first:
+      213: 2518189594749740475
+    second: LaserTrap_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserTrap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56083ec8e7f8c30800000000000000
+      internalID: 4363845707522663868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_1
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1464
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657a1c117a6c6c20800000000000000
+      internalID: 3201050469188924771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6556dba7ce151630800000000000000
+      internalID: 3897054895489308013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1342
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89b188cd3c6d0a0800000000000000
+      internalID: -6857078030681270041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dd7f89b65116f0800000000000000
+      internalID: -715695510798872437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_5
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1220
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca36cd64bc21e50800000000000000
+      internalID: 6778703894351686744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fabe0be8fa96b30800000000000000
+      internalID: 4281145948180819751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1098
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a7f1aa66b871db0800000000000000
+      internalID: -4821231603019711984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c2acbe335576d70800000000000000
+      internalID: 9036284858829777937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 976
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ebac7b3f736200800000000000000
+      internalID: 172121104241649680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe549dbea4926e0800000000000000
+      internalID: -1861874594117980181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_11
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 854
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d9449bd3c714f0800000000000000
+      internalID: -858001856137668231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac158a5f61f0e900800000000000000
+      internalID: 711834201686875308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_13
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 732
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e77b01c9b9431fb0800000000000000
+      internalID: -4678314525751281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce67bba7dc733d0800000000000000
+      internalID: -3226884680972833633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_15
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 610
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19278f3601ace20d0800000000000000
+      internalID: -3445594493146336623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6961f759e2ac1d930800000000000000
+      internalID: 4166333431719859862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 488
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa959808d148e750800000000000000
+      internalID: 6334385272009366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f542dba415d847ec0800000000000000
+      internalID: -3570073224312183713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_19
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 366
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696e75723e6169d0800000000000000
+      internalID: -2782821931739616916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3d7cafc273a650800000000000000
+      internalID: 6242959744743325209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 244
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc63bf153633670800000000000000
+      internalID: 8517260524045914109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf9ff71ad196590800000000000000
+      internalID: -7680575110029640877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_23
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 122
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27c133e9d761cd0800000000000000
+      internalID: -2587742817461964085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc88508634696f0800000000000000
+      internalID: -678280579824169036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTrap_25
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 1052
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a420381862f220800000000000000
+      internalID: 2518189594749740475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

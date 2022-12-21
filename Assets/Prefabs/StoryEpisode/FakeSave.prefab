@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2372252698190755058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2372252698190755059}
+  - component: {fileID: 2372252698190755052}
+  - component: {fileID: 2372252698190755053}
+  m_Layer: 0
+  m_Name: FakeSave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2372252698190755059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2372252698190755058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2372252698190755052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2372252698190755058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad97dd740e9058d46b70557f1dfc0413, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneyText: {fileID: 0}
+  loadData:
+    money: 0
+    damage: 0
+    health: 0
+    level: 0
+    firstPlay: 0
+    buyskin1: 0
+    buyskin2: 0
+    buyskin3: 0
+    buyskin4: 0
+    buyskin5: 0
+    buyweapon1: 0
+    buyweapon2: 0
+    buyweapon3: 0
+    buyweapon4: 0
+    buyweapon5: 0
+    equipskin1: 0
+    equipskin2: 0
+    equipskin3: 0
+    equipskin4: 0
+    equipskin5: 0
+    equipweapon1: 0
+    equipweapon2: 0
+    equipweapon3: 0
+    equipweapon4: 0
+    equipweapon5: 0
+  money: 0
+  firstMoney: 0
+  hp: 0
+  damage: 0
+  currentSceneIndex: 0
+  skin1: 0
+  skin2: 0
+  skin3: 0
+  skin4: 0
+  skin5: 0
+  weapon1: 0
+  weapon2: 0
+  weapon3: 0
+  weapon4: 0
+  weapon5: 0
+--- !u!114 &2372252698190755053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2372252698190755058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d8f60cd7543834c9b76f1e97f514f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: 5ffe9a21a6949e645b56fb0c6899a3a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2180701618497998299
+    second: WaterBall_0
+  - first:
+      213: 6230035366642985712
+    second: WaterBall_1
+  - first:
+      213: 5156523693323527932
+    second: WaterBall_2
+  - first:
+      213: -6350998332577906387
+    second: WaterBall_3
+  - first:
+      213: 3221192661986484609
+    second: WaterBall_4
+  - first:
+      213: 1632308259352438899
+    second: WaterBall_5
+  - first:
+      213: -8903829981193921354
+    second: WaterBall_6
+  - first:
+      213: 6131897860424035113
+    second: WaterBall_7
+  - first:
+      213: -3394790252758948417
+    second: WaterBall_8
+  - first:
+      213: -2189833262888218146
+    second: WaterBall_9
+  - first:
+      213: -1595715284158928800
+    second: WaterBall_10
+  - first:
+      213: -3227892686626669520
+    second: WaterBall_11
+  - first:
+      213: -331535928391945677
+    second: WaterBall_12
+  - first:
+      213: -4600279972381446985
+    second: WaterBall_13
+  - first:
+      213: -2054580770317789925
+    second: WaterBall_14
+  - first:
+      213: -1492328847399139000
+    second: WaterBall_15
+  - first:
+      213: 8588531006329571489
+    second: WaterBall_16
+  - first:
+      213: -5830969033813431313
+    second: WaterBall_17
+  - first:
+      213: -804681441964924729
+    second: WaterBall_18
+  - first:
+      213: 3845870043212753827
+    second: WaterBall_19
+  - first:
+      213: -7149599630601110925
+    second: WaterBall_20
+  - first:
+      213: 4386385871548391180
+    second: WaterBall_21
+  - first:
+      213: 534049778156461702
+    second: WaterBall_22
+  - first:
+      213: -2436747438976500744
+    second: WaterBall_23
+  - first:
+      213: -6728443909186379846
+    second: WaterBall_24
+  - first:
+      213: 567799833943802397
+    second: WaterBall_25
+  - first:
+      213: -783170550446520196
+    second: WaterBall_26
+  - first:
+      213: 8390990684213662768
+    second: WaterBall_27
+  - first:
+      213: -678450548758443518
+    second: WaterBall_28
+  - first:
+      213: -7806252345985748163
+    second: WaterBall_29
+  - first:
+      213: -8544595182266077711
+    second: WaterBall_30
+  - first:
+      213: 6462573836354744247
+    second: WaterBall_31
+  - first:
+      213: -8095518570176128030
+    second: WaterBall_32
+  - first:
+      213: -4100863208484620966
+    second: WaterBall_33
+  - first:
+      213: 6696758130524079256
+    second: WaterBall_34
+  - first:
+      213: 7801165796894897407
+    second: WaterBall_35
+  - first:
+      213: -7516043331709140926
+    second: WaterBall_36
+  - first:
+      213: -8168658959706909694
+    second: WaterBall_37
+  - first:
+      213: 8939496948829870496
+    second: WaterBall_38
+  - first:
+      213: 4290888349546510028
+    second: WaterBall_39
+  - first:
+      213: 6277470918274853382
+    second: WaterBall_40
+  - first:
+      213: 8093936393602873490
+    second: WaterBall_41
+  - first:
+      213: 899625892502521820
+    second: WaterBall_42
+  - first:
+      213: 6216809790043717273
+    second: WaterBall_43
+  - first:
+      213: 1218181528729432943
+    second: WaterBall_44
+  - first:
+      213: 3749237431309976048
+    second: WaterBall_45
+  - first:
+      213: 1420914762520926520
+    second: WaterBall_46
+  - first:
+      213: 2820968183329935481
+    second: WaterBall_47
+  - first:
+      213: 7222130739316581595
+    second: WaterBall_48
+  - first:
+      213: 6137564279172117646
+    second: WaterBall_49
+  - first:
+      213: 457400200901185089
+    second: WaterBall_50
+  - first:
+      213: -2777311531199379127
+    second: WaterBall_51
+  - first:
+      213: -6241080597221346249
+    second: WaterBall_52
+  - first:
+      213: 1049985924850887376
+    second: WaterBall_53
+  - first:
+      213: 611483530540355050
+    second: WaterBall_54
+  - first:
+      213: 2796782053432909423
+    second: WaterBall_55
+  - first:
+      213: 6625008285958481878
+    second: WaterBall_56
+  - first:
+      213: 6399226178056713696
+    second: WaterBall_57
+  - first:
+      213: 7683584245705369527
+    second: WaterBall_58
+  - first:
+      213: -6512720123665964849
+    second: WaterBall_59
+  - first:
+      213: 2115104489424253376
+    second: WaterBall_60
+  - first:
+      213: 5419949553215303411
+    second: WaterBall_61
+  - first:
+      213: 4814590828038233685
+    second: WaterBall_62
+  - first:
+      213: -1024153697117607739
+    second: WaterBall_63
+  - first:
+      213: -5420104758249918780
+    second: WaterBall_64
+  - first:
+      213: -7554191073517069528
+    second: WaterBall_65
+  - first:
+      213: 4246360512275817791
+    second: WaterBall_66
+  - first:
+      213: 3713296667668602390
+    second: WaterBall_67
+  - first:
+      213: -5874330943058016278
+    second: WaterBall_68
+  - first:
+      213: 1314390546177512483
+    second: WaterBall_69
+  - first:
+      213: 8635319018602826298
+    second: WaterBall_70
+  - first:
+      213: -7964762638260611384
+    second: WaterBall_71
+  - first:
+      213: -7943166896882067798
+    second: WaterBall_72
+  - first:
+      213: -4983701516169580842
+    second: WaterBall_73
+  - first:
+      213: 8233457459665845995
+    second: WaterBall_74
+  - first:
+      213: 658223322961422060
+    second: WaterBall_75
+  - first:
+      213: -6562475941901656227
+    second: WaterBall_76
+  - first:
+      213: 5071317876768753349
+    second: WaterBall_77
+  - first:
+      213: -5190932634252169345
+    second: WaterBall_78
+  - first:
+      213: -4342829311741941092
+    second: WaterBall_79
+  - first:
+      213: -2739444951403625632
+    second: WaterBall_80
+  - first:
+      213: 3599463781408502435
+    second: WaterBall_81
+  - first:
+      213: 2349752407099664920
+    second: WaterBall_82
+  - first:
+      213: 5293528642089928858
+    second: WaterBall_83
+  - first:
+      213: 766687063983399689
+    second: WaterBall_84
+  - first:
+      213: -5086733169370087713
+    second: WaterBall_85
+  - first:
+      213: -7043046119729640005
+    second: WaterBall_86
+  - first:
+      213: -6184954355108975920
+    second: WaterBall_87
+  - first:
+      213: -3604220608787015264
+    second: WaterBall_88
+  - first:
+      213: 7981741554149036018
+    second: WaterBall_89
+  - first:
+      213: 8868903268530447808
+    second: WaterBall_90
+  - first:
+      213: 5744547799138387724
+    second: WaterBall_91
+  - first:
+      213: 6266295882729822474
+    second: WaterBall_92
+  - first:
+      213: -8016151508591313555
+    second: WaterBall_93
+  - first:
+      213: 8051649611590860898
+    second: WaterBall_94
+  - first:
+      213: -3792006405916470814
+    second: WaterBall_95
+  - first:
+      213: 4036369051129115774
+    second: WaterBall_96
+  - first:
+      213: -1136040552691031922
+    second: WaterBall_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 285
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterBall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522be4c8e679cb1e0800000000000000
+      internalID: -2180701618497998299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 489
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa20e66828857650800000000000000
+      internalID: 6230035366642985712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 484
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62f688af6af8740800000000000000
+      internalID: 5156523693323527932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 487
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2188916aa8bcd7a0800000000000000
+      internalID: -6350998332577906387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 483
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181acc2d8a9f3bc20800000000000000
+      internalID: 3221192661986484609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37863aaa6bf17a610800000000000000
+      internalID: 1632308259352438899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc967e7ecd3f6480800000000000000
+      internalID: -8903829981193921354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBall_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6d89ad90e81550800000000000000
+      internalID: 6131897860424035113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

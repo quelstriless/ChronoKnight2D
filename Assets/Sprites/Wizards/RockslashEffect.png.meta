@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: fdecec84f9dabf14d895231530f44b58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7843652560103418692
+    second: RockslashEffect_0
+  - first:
+      213: 4334451138174947686
+    second: RockslashEffect_1
+  - first:
+      213: -1085310755999564274
+    second: RockslashEffect_2
+  - first:
+      213: 505567178373169984
+    second: RockslashEffect_3
+  - first:
+      213: 7505478168496378578
+    second: RockslashEffect_4
+  - first:
+      213: -4420996187616498519
+    second: RockslashEffect_5
+  - first:
+      213: -7660055421629144522
+    second: RockslashEffect_6
+  - first:
+      213: 2165186163757760973
+    second: RockslashEffect_7
+  - first:
+      213: 7546245890098299771
+    second: RockslashEffect_8
+  - first:
+      213: -3386443813913658309
+    second: RockslashEffect_9
+  - first:
+      213: -7833789474818106305
+    second: RockslashEffect_10
+  - first:
+      213: 6588159989881931411
+    second: RockslashEffect_11
+  - first:
+      213: -9051888533629834387
+    second: RockslashEffect_12
+  - first:
+      213: -1495662043333168663
+    second: RockslashEffect_13
+  - first:
+      213: -3523133759189317871
+    second: RockslashEffect_14
+  - first:
+      213: 736661490092975403
+    second: RockslashEffect_15
+  - first:
+      213: -8848228521028689008
+    second: RockslashEffect_16
+  - first:
+      213: 7160650563387475255
+    second: RockslashEffect_17
+  - first:
+      213: -4412023685408159918
+    second: RockslashEffect_18
+  - first:
+      213: 7044531853890360052
+    second: RockslashEffect_19
+  - first:
+      213: 1541597138536545756
+    second: RockslashEffect_20
+  - first:
+      213: -7594517676721832088
+    second: RockslashEffect_21
+  - first:
+      213: 8489529265791721253
+    second: RockslashEffect_22
+  - first:
+      213: -5613510901995029128
+    second: RockslashEffect_23
+  - first:
+      213: 173321760813043870
+    second: RockslashEffect_24
+  - first:
+      213: -1072912078736236163
+    second: RockslashEffect_25
+  - first:
+      213: 9052843676292885529
+    second: RockslashEffect_26
+  - first:
+      213: -7456815665545577955
+    second: RockslashEffect_27
+  - first:
+      213: 6211608919082751994
+    second: RockslashEffect_28
+  - first:
+      213: 8033211369960392732
+    second: RockslashEffect_29
+  - first:
+      213: 7934696184136069418
+    second: RockslashEffect_30
+  - first:
+      213: -2667707511809146873
+    second: RockslashEffect_31
+  - first:
+      213: 1338813161932252365
+    second: RockslashEffect_32
+  - first:
+      213: 7468033105681255751
+    second: RockslashEffect_33
+  - first:
+      213: 8435951353673904919
+    second: RockslashEffect_34
+  - first:
+      213: 415038895549969713
+    second: RockslashEffect_35
+  - first:
+      213: 4366901745848070151
+    second: RockslashEffect_36
+  - first:
+      213: -1355007331716243906
+    second: RockslashEffect_37
+  - first:
+      213: 8557871812960148249
+    second: RockslashEffect_38
+  - first:
+      213: -7120807023312911849
+    second: RockslashEffect_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockslashEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4d375dd8fb52390800000000000000
+      internalID: -7843652560103418692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66194336850172c30800000000000000
+      internalID: 4334451138174947686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3cbd1e9330f0f0800000000000000
+      internalID: -1085310755999564274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043870d8ba2240700800000000000000
+      internalID: 505567178373169984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21da6e0a0d82860800000000000000
+      internalID: 7505478168496378578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac23cb046775a2c0800000000000000
+      internalID: -4420996187616498519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326df1cd2402b590800000000000000
+      internalID: -7660055421629144522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14f5328594c0e10800000000000000
+      internalID: 2165186163757760973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b738f03c7a6a9b860800000000000000
+      internalID: 7546245890098299771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockslashEffect_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7bdb1b4fe001d0800000000000000
+      internalID: -3386443813913658309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

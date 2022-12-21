@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">318495030004</string>
+  <string name="google_storage_bucket" translatable="false">chrono-knight1.appspot.com</string>
+  <string name="project_id" translatable="false">chrono-knight1</string>
+  <string name="google_api_key" translatable="false">AIzaSyCodgD8tjMxQYhJngxwCl_z1x-ka9v9tvY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCodgD8tjMxQYhJngxwCl_z1x-ka9v9tvY</string>
+  <string name="google_app_id" translatable="false">1:318495030004:android:feda16623f43cc5f2d7ca1</string>
+  <string name="default_web_client_id" translatable="false">318495030004-7djkth5sa7u3ljkmpbfm2qerc4o1vep8.apps.googleusercontent.com</string>
+</resources>

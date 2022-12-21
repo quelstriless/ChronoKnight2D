@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c0d8152b8f6a4f147b0d1fbfe80123e0
+  - enabled: 1
+    path: Assets/Scenes/f.unity
+    guid: a2f69bfa3be9cba439501e28d979166b
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode1.unity
+    guid: 846e6eeb1e4b509428de3b217886903e
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode2.unity
+    guid: af0da145273b06b4689da4a2e664d76a
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode3.unity
+    guid: bc174b10ebf61bd4791ce2c34f867902
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode4.unity
+    guid: 48e632c9ccf28374a92e1cd2367205a5
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode5.unity
+    guid: ccc35018ceb8dca4b98b2ede96b9f225
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode6.unity
+    guid: c81bc6705e748274dac97adf750dff12
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode7.unity
+    guid: 7775e06a635270d4a859056867749422
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode8.unity
+    guid: 67d2fbe90f1217648a241b8fe6c53c18
+  - enabled: 1
+    path: Assets/Scenes/World1-Episode9.unity
+    guid: 00e42c3972e6560438efc2a12e7c97cb
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode1.unity
+    guid: c9985626c24efd34c9b98caaf3ac062b
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode2.unity
+    guid: c0f6529fc1d04f7448c9b9cbd19716df
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode3.unity
+    guid: 758d96837e4f7f84e9adc2fd8e4bb49d
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode4.unity
+    guid: f79cb464efd62104390c0310cccbd104
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode5.unity
+    guid: 7c232e496b2cf284095b362e39fbcba1
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode6.unity
+    guid: af354445d4531524db6bdbb54d8ee7e3
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode7.unity
+    guid: 5c8bc62046b42484fbee1cf2171c806f
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode8.unity
+    guid: d67550b7ef8fcba43882be2397f41b68
+  - enabled: 1
+    path: Assets/Scenes/World2-Episode9.unity
+    guid: dfd4ed67e97f8e642b22034cb9d23a4b
+  - enabled: 1
+    path: Assets/Scenes/UpgradeScreen.unity
+    guid: 58ad0160fedbbe6458db5986bd54962b
+  - enabled: 1
+    path: Assets/Scenes/Story1.unity
+    guid: 5aa40be78208dbb4b8b0b1cacb61a395
+  m_configObjects: {}

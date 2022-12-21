@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 48345ab06013f9740a30cf02fcb70391
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 211835301474781430
+    second: StoneWizard_0
+  - first:
+      213: -1543454592882288054
+    second: StoneWizard_1
+  - first:
+      213: -6186748880334495037
+    second: StoneWizard_2
+  - first:
+      213: 1543207005197359711
+    second: StoneWizard_3
+  - first:
+      213: -7749017008212630312
+    second: StoneWizard_4
+  - first:
+      213: 2952135933959714617
+    second: StoneWizard_5
+  - first:
+      213: -8337905064163137875
+    second: StoneWizard_6
+  - first:
+      213: 969789463558396955
+    second: StoneWizard_7
+  - first:
+      213: -8683436382584132968
+    second: StoneWizard_8
+  - first:
+      213: 295162898410236913
+    second: StoneWizard_9
+  - first:
+      213: -8245710973667487510
+    second: StoneWizard_10
+  - first:
+      213: -7495698335434472408
+    second: StoneWizard_11
+  - first:
+      213: -1287448386094736971
+    second: StoneWizard_12
+  - first:
+      213: 8458493167946740415
+    second: StoneWizard_13
+  - first:
+      213: -8876324052794303522
+    second: StoneWizard_14
+  - first:
+      213: 8535146842857804850
+    second: StoneWizard_15
+  - first:
+      213: -5142460520106441924
+    second: StoneWizard_16
+  - first:
+      213: 6831387313981321956
+    second: StoneWizard_17
+  - first:
+      213: -646604458013728580
+    second: StoneWizard_18
+  - first:
+      213: 7102079841691597222
+    second: StoneWizard_19
+  - first:
+      213: -3979651581880641355
+    second: StoneWizard_20
+  - first:
+      213: -5217901846368905725
+    second: StoneWizard_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneWizard_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3200
+        width: 1373
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ca47951790f200800000000000000
+      internalID: 211835301474781430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWizard_1
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3210
+        width: 1394
+        height: 1389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5e40b93c849ae0800000000000000
+      internalID: -1543454592882288054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWizard_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1445
+        height: 1440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ed111ca0442aa0800000000000000
+      internalID: -6186748880334495037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWizard_3
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1600
+        width: 1559
+        height: 1456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5adeaf48929a6510800000000000000
+      internalID: 1543207005197359711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWizard_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a60b4616f57490800000000000000
+      internalID: -7749017008212630312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

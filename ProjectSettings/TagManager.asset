@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - spike
+  - FireBall
+  - Boss
+  - Box
+  - Platform
+  - lazer
+  - Chest
+  - Magics
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FireBall
+  - Ground
+  - Player
+  - Enemy
+  - WaterBall
+  - WaterBallComp
+  - Trap
+  - Kirilabilirler
+  - Toplanabilirler
+  - Chest
+  - UpGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3130966527
+    locked: 0
+  - name: Foreground
+    uniqueID: 1437052157
+    locked: 0
+  - name: Player
+    uniqueID: 2170795915
+    locked: 0
+  - name: Effects
+    uniqueID: 955234797
+    locked: 0
