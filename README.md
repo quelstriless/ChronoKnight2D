@@ -30,3 +30,5 @@ Mobile game made by unity game engine.
    cd ChronoKnight2D
    
 You need UNITY game engine to make it work.
+
+- **License:** Ensure the `LICENSE` file is present in your repository with the correct license text.
