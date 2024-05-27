@@ -28,3 +28,5 @@ Mobile game made by unity game engine.
    ```sh
    git clone https://github.com/quelstriless/ChronoKnight2D.git
    cd ChronoKnight2D
+   
+You need UNITY game engine to make it work.
